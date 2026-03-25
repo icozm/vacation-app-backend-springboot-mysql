@@ -1,4 +1,4 @@
-# Vacation App Backend (Spring Boot + MySQL)
+# VacationAlly App Backend (Spring Boot + MySQL)
 
 ## Overview
 Spring Boot backend for a vacation booking system supporting customers, vacations, excursions, carts, and checkout functionality through REST APIs.
